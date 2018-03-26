@@ -1,4 +1,0 @@
-cluster.name: application
-node.name: node-1
-path.data: /usr/local/elasticsearch/data
-path.logs: /home/USER/log/elasticlog
